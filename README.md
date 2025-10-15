@@ -11,7 +11,7 @@ Build an AI Agent that learns from video instructions and autonomously controls 
 
 **Full project brief:** [Google Doc](https://docs.google.com/document/d/1L-YF_Ragbx6BlWVraV1YauE3_91N09pMp_FXKqacAb4/edit?usp=sharing)
 
-**Challenge details:** [CHALLENGE.md](./CHALLENGE.md)
+**Challenge details:** [CHALLENGE.md](./Challenge.md)
 
 ### Submission
 1. Fork this repo
